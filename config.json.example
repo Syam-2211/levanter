@@ -1,9 +1,16 @@
 {
   "session1": {
-    "SESSION_ID": "levanter_sessionid",
+    "SESSION_ID": "levanter_syamser123",
     "PREFIX": "^[.,!]",
-    "SUDO": "0",
-    "STICKER_PACKNAME": "❤️,LyFE",
+    "SUDO": "919947121619",
+    "STICKER_PACKNAME": "🤍⃞𝄟ꪶ𝐒͢ʏ᪳ᴀ͓ᴍ͎ ͢𝐒ᴇ͓ꪳʀ͎𖦻⃞🍓
+
+    𝛨𝛯𝐿𝐿𝛩 𝐵𝛩𝐵𝛩
+
+            >𝟑💌🕊️🦋🍒
+
+           🪡⇉ꪶ +91 99471 21619 ⃟⃮➣🤍
+           `Hey youhh my name is { }`",
     "ALWAYS_ONLINE": "false",
     "RMBG_KEY": "null",
     "WARN_LIMIT": "3",
@@ -26,18 +33,18 @@
     "WARN_RESET_MESSAGE": "WARN RESET\nUser : &mention\nRemaining : &remaining\nWARN_KICK_MESSAGE=&mention kicked",
     "WARN_KICK_MESSAGE": "&mention kicked",
     "DELETE_TYPE": "all",
-    "LIST_TYPE": "text",
+    "LIST_TYPE": "poll",
     "BING_COOKIE": "",
     "GEMINI_API_KEY": "",
     "GROUP_ADMINS": "",
     "CMD_REACTION": "true"
   },
   "session2": {
-    "SESSION_ID": "levanter_sessionid",
+    "SESSION_ID": "levanter_syamser123",
     "PREFIX": "null"
   },
   "session3": {
-    "SESSION_ID": "levanter_sessionid",
+    "SESSION_ID": "levanter_syamser123",
     "PREFIX": ".."
   }
 }
